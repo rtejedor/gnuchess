@@ -1,0 +1,7 @@
+bin/
+share/	
+*.o
+*/Makefile
+config.log
+config.status
+
